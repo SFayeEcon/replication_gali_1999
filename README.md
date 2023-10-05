@@ -1,4 +1,4 @@
-A Replication Study of Gali (1999)
+A Replication Study of Gali (1999) by Souleymane Faye, Sofiene Taamouti, and Patryk Wisniewski
 ======
 
 ### Galí, Jordi. 1999. "Technology, Employment, and the Business Cycle: Do Technology Shocks Explain Aggregate Fluctuations?"
