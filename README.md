@@ -3,8 +3,8 @@ A Replication Study of Gali (1999) by Souleymane Faye, Sofiene Taamouti, and Pat
 
 ### Galí, Jordi. 1999. "Technology, Employment, and the Business Cycle: Do Technology Shocks Explain Aggregate Fluctuations?"
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-This project which concludes the course of Macro-Econometrics of the master in quantitative economics first semester,
-consisted in the empirical results' replication of the famous 1999 Gali publication in the American Economic Review, using modern econometrics tools in Matlab.
+This project which concludes the course we took at Paris Dauphine PSL of Macro-Econometrics during the master's in quantitative economics first semester,
+consisted in the theoretical and empirical results' replication of the famous 1999 Gali publication in the American Economic Review, using modern econometrics tools in Matlab.
 
 ### Data
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
